@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Siro
+- 👀 I’m interested in computer science, motorsport and sport
+- 🌱 I’m currently learning computer science
+- 📫 How to reach me siroaeb@gmail.com
